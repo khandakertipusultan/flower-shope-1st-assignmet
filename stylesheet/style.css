@@ -1,6 +1,5 @@
 .background {
     background-color: rgba(229, 84, 115, 0.10);
-    ;
 }
 
 .header-display {
@@ -65,24 +64,48 @@
     background-image: url('./../Asset/Rectangle\ 9.png');
     background-repeat: no-repeat;
     width: 1080px;
-    height: 4867px;
+    height: 300px;
 
 }
 
-.deal-text{
+.deal-text {
     text-align: center;
     margin-top: 150px;
     margin-left: 300px;
 }
 
-.input{
-    
+.input {
+
     margin-top: 300px;
     width: 250px;
 }
 
-.deal-section{
+.deal-section {
     margin-top: 100px;
     margin-left: 200px;
 
 }
+
+.flower-inst {
+    background-color: rgba(167, 33, 98, 0.15);
+    border: 1px solid black;
+    width: 200px;
+    height: 200px;
+}
+
+.footer-text{
+    text-align: center;
+    color: white;
+    padding: 50px;
+    margin-top: 50px;
+
+}
+
+.footer-back{
+    background-color: black;
+}
+
+.text-color{
+    color: red;
+}
+
