@@ -55,3 +55,34 @@
     padding: 20px;
     margin-top: 50px;
 }
+
+.text-flower {
+    text-align: center;
+}
+
+.latest-deal {
+    display: flex;
+    background-image: url('./../Asset/Rectangle\ 9.png');
+    background-repeat: no-repeat;
+    width: 1080px;
+    height: 4867px;
+
+}
+
+.deal-text{
+    text-align: center;
+    margin-top: 150px;
+    margin-left: 300px;
+}
+
+.input{
+    
+    margin-top: 300px;
+    width: 250px;
+}
+
+.deal-section{
+    margin-top: 100px;
+    margin-left: 200px;
+
+}
