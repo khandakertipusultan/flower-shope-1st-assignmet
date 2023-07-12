@@ -29,6 +29,11 @@
     text-align: center;
 }
 
+.featured-text {
+
+    font-weight: bold;
+}
+
 .flower {
     display: flex;
     gap: 15px;
@@ -73,8 +78,6 @@
 
 .deal-text {
     text-align: center;
-    /* margin-top: 150px;
-    margin-left: 300px; */
 }
 
 
@@ -82,7 +85,7 @@
     border-radius: 5px;
     width: 500px;
     height: 30px;
-    
+
 }
 
 .deal-section {
@@ -98,7 +101,7 @@
     height: 200px;
 }
 
-.footer-text{
+.footer-text {
     text-align: center;
     color: white;
     padding: 50px;
@@ -106,15 +109,15 @@
 
 }
 
-.footer-back{
+.footer-back {
     background-color: black;
 }
 
-.text-color{
+.text-color {
     color: red;
 }
 
-.hotdeal{
+.hotdeal {
     margin-top: 100px;
-    background-color:bisque;
+    background-color: bisque;
 }
